@@ -1,3 +1,4 @@
+//test bench for eba.v, 8 bit adder
 module eba_tb;
 
 reg a_1,a_2,a_3,a_4,a_5,a_6,a_7,a_8;
