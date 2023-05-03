@@ -1,3 +1,4 @@
+//8 bit adder using individual i/o ports and simple full adder
 `include "fullAdder.v"
 module eba(a_1,a_2,a_3,a_4,a_5,a_6,a_7,a_8,b_1,b_2,b_3,b_4,b_5,b_6,b_7,b_8,s_1,s_2,s_3,s_4,s_5,s_6,s_7,s_8,cin,cout);
 
@@ -19,3 +20,4 @@ fullAdder f7 (a_7,b_7,c_6,c_7,s_7);
 fullAdder f8 (a_8,b_8,c_7,cout,s_8);
 
 endmodule
+// test bench file is called eba_tb.v
