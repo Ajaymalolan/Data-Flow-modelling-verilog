@@ -1,5 +1,4 @@
-# Verilog-Programs
-Basic Verilog Programs
+Behavioral modelling Verilog Programs
 
 Implimented using using icarus Verilog and GTK wave.
 
