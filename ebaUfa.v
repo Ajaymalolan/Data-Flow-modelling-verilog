@@ -1,4 +1,4 @@
-//behavioral model.
+//data flow model.
 //8 bit adder using full adder more specifically, this is a ripple carry adder.
 
 //import full adder file, which is already created.
