@@ -1,4 +1,4 @@
-//behavioral model
+//data flow model
 //8:1 mux using 4:1 MUX and 2:1 MUX
 //include 4:1 MUX
 `include "mux_4.v"
