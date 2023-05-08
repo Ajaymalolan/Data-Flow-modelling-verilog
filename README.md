@@ -1,4 +1,4 @@
-Behavioral modelling Verilog Programs
+Data flow modelling Verilog Programs
 
 Implimented using using icarus Verilog and GTK wave.
 
