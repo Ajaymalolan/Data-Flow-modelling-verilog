@@ -1,4 +1,4 @@
-//behavioral modelling
+//data flow modelling
 //half subtractor
 module halfSubtractor(a,b,c,d);
 
