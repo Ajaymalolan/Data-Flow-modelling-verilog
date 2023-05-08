@@ -1,4 +1,4 @@
-//behavioral modelling
+//data flow modelling
 //8 bit subtractor
 
 //include full subtractor file
