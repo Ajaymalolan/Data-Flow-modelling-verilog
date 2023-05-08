@@ -1,4 +1,4 @@
-//behavioral modelling
+//data flow modelling
 //2:1 MUX
 
 //start module
