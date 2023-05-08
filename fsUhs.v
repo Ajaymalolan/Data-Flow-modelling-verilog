@@ -1,4 +1,4 @@
-//behavioral modelling
+//data flow modelling
 
 //include half subtractor file
 `include "halfSubtractor.v"
