@@ -1,4 +1,4 @@
-//behavioral modeling.
+//data flow modeling.
 //half adder.
 
 //start module.
