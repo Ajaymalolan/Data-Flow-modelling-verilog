@@ -1,4 +1,4 @@
-//behavioral modeling.
+//data flow modeling.
 //full adder using half adder.
 
 //include half adder from previous program
