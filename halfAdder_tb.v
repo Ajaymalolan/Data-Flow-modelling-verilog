@@ -22,7 +22,7 @@ begin
   
 //dump variables and create waveform file.
 $display(a_i,b_i,c_o,s_o);
-$dumpfile("behavioral_halfAdder.vcd");
+$dumpfile("halfAdder.vcd");
 $dumpvars(0,halfAdder_tb);
   
 //inputs for simulation.
